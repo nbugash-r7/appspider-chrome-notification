@@ -47,3 +47,8 @@ fabric.properties
 
 # Custom html pages to ignore
 /index.html
+
+# Ignoring .idea folder created by Jetbrain
+/.idea/appspider-notification.iml
+/.idea/encodings.xml
+/.idea/modules.xml
