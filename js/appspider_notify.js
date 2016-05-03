@@ -25,7 +25,7 @@ function notifyPlugin() {
         Notification.requestPermission();
     else {
         var notification = new Notification('AppSpider Validate', {
-            icon: 'images/appspider_notify_icon.png',
+            icon: 'images/icon.png',
             body: "Hey there! There's a chrome plugin available to open the validate button"
         });
 
